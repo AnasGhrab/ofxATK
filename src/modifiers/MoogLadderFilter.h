@@ -14,7 +14,7 @@ The most basic model is 4 lowpass filters in series. The output of the final LPF
 is flipped around 0 (multiplied by -1), multiplied by K, and summed with the next input value
 */
 
-#include "filters.hpp"
+#include "Filters.hpp"
 
 
 //TODO Make parent class for filters
